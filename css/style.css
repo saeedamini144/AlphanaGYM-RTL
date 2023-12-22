@@ -1022,7 +1022,7 @@ nav .dropdown-item:focus, .dropdown-item:hover {
     }
 
     .footer-top .plans {
-        transform: translateY(-70px);
+        /* transform: translateY(-70px); */
     }
 
     .footer-bottom .copyright {
